@@ -1,0 +1,48 @@
+/**
+ * @name saucy
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --backgroundImage: url('https://imgur.com/qhBghXt.png');
+  --backgroundColor: #2A0000;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 50px;
+  --backgroundOpacity: 0.6;
+  --homeImage: url('https://i.imgur.com/ggLIHbq.png');
+  --homeImageSize: cover;
+  --themeColor1: #F13232;
+  --themeColor2: #000000;
+  --customFont: Open Sans;
+  --backgroundCode: rgba(0 0 0 /.5);
+  --backgroundName: rgba(0 0 0 /.5);
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #56FFB2;
+  --rs-idle-color: #FFBB49;
+  --rs-dnd-color: #FF6060;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #874BEF;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
